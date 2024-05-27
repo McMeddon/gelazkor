@@ -1,2 +1,2 @@
 # Gelazkor
-[https://www.planetminecraft.com/project/gelazkor/](Gelazkor on PMC)
+[Gelazkor on PMC](https://www.planetminecraft.com/project/gelazkor/)
